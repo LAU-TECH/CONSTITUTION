@@ -10,9 +10,9 @@
 
 ## **ARTICLE II: PURPOSE**
 
-> _**MOTO: Do not mix the truth with falsehood or conceal the truth while you know it**_.
+> #### _MOTO: Do not mix the truth with falsehood or conceal the truth while you know it**_.
 
-> **Aims and Objectives:**
+> #### Aims and Objectives:
 
 ```
     1. Shape careers.
@@ -22,7 +22,7 @@
 
 ## ***ARTICLE III: MEMBERSHIP***
 
-> _A:  Criteria for ordinary membership into the club (assuring no discrimination):_
+> #### _A:  Criteria for ordinary membership into the club (assuring no discrimination):_
 	
 ```
     1. Pass a trial of 30 days.
@@ -32,9 +32,9 @@
     3. Willingness to learn and work hard. 
 ```
     
-> _B:  Requirements for members to be fully recognized by the club:_
+> #### _B:  Requirements for members to be fully recognized by the club:_
 
-1. The candidate must meet all the requirements of ARTICLE III section A.
+1. The candidate must meet all the requirements of [ARTICLE III section A.](#article-iii-membership)
  
 2. Experience in one or more of the following areas:
    * Desktop App development.
@@ -48,11 +48,11 @@
 
 4. The candidate has to showcase a project, in one of the areas mentioned above in this section.
 
-> _C: Visitor membership:_
+> #### _C: Visitor membership:_
 
-   All candidates who do not meet the listed requirements of [ARTICLE III section A and B are considered as visitors](#ARTICLE-III-:-MEMBERSHIP).
+   All candidates who do not meet the listed requirements of [ARTICLE III section A and B are considered as visitors](#article-iii-membership).
 
-> _D:  Rights and privileges of members:_
+> #### _D:  Rights and privileges of members:_
 
 1. Full members:
     
@@ -75,9 +75,9 @@
 
 ## ***ARTICLE IV: MEETINGS***
 
-> _A:  The General Meeting of the Club shall be held each semester._
+> #### _A:  The General Meeting of the Club shall be held each semester._
 
-> _B:_ 
+> #### _B:_ 
 
     1- The Chairman shall be entitled to convene Special General Meetings of the Club to deal with any urgent business pertaining to the Club. 
 
@@ -88,7 +88,7 @@
 
 ## ***ARTICLE V: EXECUTIVE BOARD***
 
-> _A:  Officers Duties:_
+> #### _A:  Officers Duties:_
 
 1. Chairman:
 
@@ -139,7 +139,7 @@
 
 ## ***ARTICLE X: INTERPRETATION OF CONSTITUTION:***
 
-> **_The Club is the sole authority for the interpretation of this Constitution and of any rule._**
+> #### **_The Club is the sole authority for the interpretation of this Constitution and of any rule._**
 
 ## ***ARTICLE XI: AMENDMENTS***
 
