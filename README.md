@@ -1,7 +1,5 @@
 # CLUB CONSTITUTION
 
-# LAU-TECH
-
 ## 22-10-2019
 
 ## ***ARTICLE I: NAME***
@@ -10,7 +8,7 @@
 
 ## **ARTICLE II: PURPOSE**
 
-> #### _MOTO: Do not mix the truth with falsehood or conceal the truth while you know it**_.
+> #### _MOTO: Do not mix the truth with falsehood or conceal the truth while you know it_.
 
 > #### Aims and Objectives:
 
