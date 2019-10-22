@@ -25,9 +25,9 @@
 > _A:  Criteria for ordinary membership into the club (assuring no discrimination):_
 	
 ```
-    1. Passing a trial of 30 days.
+    1. Pass a trial of 30 days.
 
-    2. Familiar with the basics programming, Algorithms and data structures.
+    2. Familiar with the basics of programming, Algorithms and data structures.
 
     3. Willingness to learn and work hard. 
 ```
@@ -49,6 +49,7 @@
 4. The candidate has to showcase a project, in one of the areas mentioned above in this section.
 
 > _C: Visitor membership:_
+
    All candidates who do not meet the listed requirements of [ARTICLE III section A and B are considered as visitors](##ARTICLE-III-:-MEMBERSHIP).
 
 > _D:  Rights and privileges of members:_
