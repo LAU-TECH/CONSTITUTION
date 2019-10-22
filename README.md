@@ -50,7 +50,7 @@
 
 > #### _C: Visitor membership:_
 
-   All candidates who do not meet the listed requirements of [ARTICLE III section A and B are considered as visitors](#article-iii-membership).
+   All candidates who do not meet the listed requirements of [ARTICLE III section A and B](#article-iii-membership) are considered as visitors.
 
 > #### _D:  Rights and privileges of members:_
 
