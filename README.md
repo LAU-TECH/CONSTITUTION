@@ -20,7 +20,7 @@
     2. Provide deep understanding of the most used technologies.  	
 ```
 
-## ***ARTICLE III:  MEMBERSHIP***
+## ***ARTICLE III: MEMBERSHIP***
 
 > _A:  Criteria for ordinary membership into the club (assuring no discrimination):_
 	
@@ -50,7 +50,7 @@
 
 > _C: Visitor membership:_
 
-   All candidates who do not meet the listed requirements of [ARTICLE III section A and B are considered as visitors](##ARTICLE-III-:-MEMBERSHIP).
+   All candidates who do not meet the listed requirements of [ARTICLE III section A and B are considered as visitors](#ARTICLE-III-:-MEMBERSHIP).
 
 > _D:  Rights and privileges of members:_
 
@@ -73,7 +73,7 @@
 
    * Observe the work flow of the club's public projects.
 
-## ***ARTICLE IV:  MEETINGS***
+## ***ARTICLE IV: MEETINGS***
 
 > _A:  The General Meeting of the Club shall be held each semester._
 
@@ -86,7 +86,7 @@
     3- No special meeting of the Club shall be convened without Club Members receiving at least 24 hours notice.
 
 
-## ***ARTICLE V:  EXECUTIVE BOARD***
+## ***ARTICLE V: EXECUTIVE BOARD***
 
 > _A:  Officers Duties:_
 
@@ -117,7 +117,7 @@
    * Shall convey information to the public.
 
 
-## ***ARTICLE VI:  FUNDS***
+## ***ARTICLE VI: FUNDS***
 
     1. All funds of the Club shall be deposited, as soon as possible after receipt, in such Bank as the Club may by resolution designate. 
     
@@ -128,7 +128,7 @@
     4. Proper books or accounts shall be maintained up to date at all times.
 
 
-## ***ARTICLE VII:  AFFILIATIONS***
+## ***ARTICLE VII: AFFILIATIONS***
 
 1. No affiliation shall use the club for their marketing campaigns unless an agreement is set.
 
@@ -137,18 +137,18 @@
     * The European University of Lefke.
 
 
-## ***ARTICLE X:  INTERPRETATION OF CONSTITUTION:***
+## ***ARTICLE X: INTERPRETATION OF CONSTITUTION:***
 
 > **_The Club is the sole authority for the interpretation of this Constitution and of any rule._**
 
-## ***ARTICLE XI:  AMENDMENTS***
+## ***ARTICLE XI: AMENDMENTS***
 
     1. Only the Annual General Meeting of the Club or a Special General Meeting shall have power to alter or amend this Constitution and Rules. 
 
     2. Any alteration or amendment to this Constitution and Rules will require to be carried by a two-thirds majority of all accredited members present.
 
 
-## ***ARTICLE XI:  BYLAWS***
+## ***ARTICLE XI: BYLAWS***
 
 	1. Members shall be required to show respect for the property of the club and acts of disrespect, including damage to equipments will be treated as a breach of the terms of a Member’s membership of the Club.
 	
