@@ -127,9 +127,9 @@
 
 
 ## ***ARTICLE VII: AFFILIATIONS***
-
-1. No affiliation shall use the club for their marketing campaigns unless an agreement is set.
-
+```diff
+- 1. No affiliation shall use the club for their marketing campaigns unless an agreement is set.
+```
 2. Current affiliations:
     
     * The European University of Lefke.
