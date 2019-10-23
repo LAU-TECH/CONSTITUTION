@@ -125,11 +125,10 @@
     
     4. Proper books or accounts shall be maintained up to date at all times.
 
-
 ## ***ARTICLE VII: AFFILIATIONS***
-```diff
-- 1. No affiliation shall use the club for their marketing campaigns unless an agreement is set.
-```
+
+1. No affiliation shall use the club for their marketing campaigns unless an agreement is set.
+
 2. Current affiliations:
     
     * The European University of Lefke.
