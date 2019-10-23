@@ -6,7 +6,7 @@
 
 > ***_LAU-TECH_***.
 
-## **ARTICLE II: PURPOSE**
+## ***ARTICLE II: PURPOSE***
 
 > #### _MOTO: Do not mix the truth with falsehood or conceal the truth while you know it_.
 
