@@ -135,18 +135,18 @@
     * The European University of Lefke.
 
 
-## ***ARTICLE X: INTERPRETATION OF CONSTITUTION:***
+## ***ARTICLE VIII: INTERPRETATION OF CONSTITUTION:***
 
 > #### **_The Club is the sole authority for the interpretation of this Constitution and of any rule._**
 
-## ***ARTICLE XI: AMENDMENTS***
+## ***ARTICLE IX: AMENDMENTS***
 
     1. Only the Annual General Meeting of the Club or a Special General Meeting shall have power to alter or amend this Constitution and Rules. 
 
     2. Any alteration or amendment to this Constitution and Rules will require to be carried by a two-thirds majority of all accredited members present.
 
 
-## ***ARTICLE XI: BYLAWS***
+## ***ARTICLE X: BYLAWS***
 
 	1. Members shall be required to show respect for the property of the club and acts of disrespect, including damage to equipments will be treated as a breach of the terms of a Member’s membership of the Club.
 	
