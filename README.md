@@ -12,29 +12,25 @@
 
 > #### Aims and Objectives:
 
-```
-    1. Shape careers.
+1. Give the chance to students to work on exctracurricular projects.
 
-    2. Provide deep understanding of the most used technologies.  	
-```
+2. Provide deep understanding of the most used technologies.  	
 
 ## ***ARTICLE III: MEMBERSHIP***
 
-> #### _A:  Criteria for ordinary membership into the club (assuring no discrimination):_
+> #### _A:  Criteria for ordinary membership into the club:_
 	
-```
-    1. Pass a trial of 30 days.
+1. Pass a trial of 30 days.
 
-    2. Familiar with the basics of programming, Algorithms and data structures.
+2. Familiar with the basics of programming, Algorithms and data structures.
 
-    3. Willingness to learn and work hard. 
-```
+3. Willingness to learn and work hard. 
     
 > #### _B:  Requirements for members to be fully recognized by the club:_
 
 1. The candidate must meet all the requirements of [ARTICLE III section A.](#article-iii-membership)
  
-2. Experience in one or more of the following areas:
+2. Basic knowledge in one or more of the following areas:
    * Desktop App development.
    * web development.
    * Mobile App dev.
@@ -42,19 +38,18 @@
    * Microprocessors and embedded systems.
    * Game development.
 
-3. Driven, self motivated individuals. 
+3. Enthusiasm, drive, and eager to learn new technologies. 
 
 4. The candidate has to showcase a project, in one of the areas mentioned above in this section.
 
 > #### _C: Visitor membership:_
 
-   All candidates who do not meet the listed requirements of [ARTICLE III section A and B](#article-iii-membership) are considered as visitors.
-
+   A visitor membership shall be granted upon request.
+ 
 > #### _D:  Rights and privileges of members:_
 
 1. Full members:
     
-   * Full access to the club's private and public projects.
    * Participate in overseas and local events.
    * Candidate Club officer.
    * Entitled to a single vote in Club elections.
@@ -62,8 +57,6 @@
 
 2. Ordinary members:
 
-   * Participate in Local events.
-   * Contribute in the club's public projects.
    * Candidate full Member.   
    * Attend the annual general meeting of the club. 
 
@@ -77,11 +70,11 @@
 
 > #### _B:_ 
 
-    1- The Chairman shall be entitled to convene Special General Meetings of the Club to deal with any urgent business pertaining to the Club. 
+1- The Chairman shall be entitled to convene Special General Meetings of the Club to deal with any urgent business pertaining to the Club. 
 
-    2- A Special General Meeting may also be convened at the written request of at least one third of the Club’s Members stating in writing the reason for the convening of such a meeting and such special meeting shall be held within fifteen (15) days of the written request 	being delivered to the Club Secretary. 
+2- A Special General Meeting may also be convened at the written request of at least one third of the Club’s Members stating in writing the reason for the convening of such a meeting and such special meeting shall be held within fifteen (15) days of the written request 	being delivered to the Club Secretary. 
 
-    3- No special meeting of the Club shall be convened without Club Members receiving at least 24 hours notice.
+3- No special meeting of the Club shall be convened without Club Members receiving at least 24 hours notice.
 
 
 ## ***ARTICLE V: EXECUTIVE BOARD***
@@ -117,13 +110,13 @@
 
 ## ***ARTICLE VI: FUNDS***
 
-    1. All funds of the Club shall be deposited, as soon as possible after receipt, in such Bank as the Club may by resolution designate. 
+1. All funds of the Club shall be deposited, as soon as possible after receipt, in such Bank as the Club may by resolution designate. 
     
-    2. All funds shall be held in the name of the Treasurer, Chairman for and on behalf of the Club. 
+2. All funds shall be held in the name of the Treasurer, Chairman for and on behalf of the Club. 
    
-    3. The name of the Club shall be designated for Bank account purposes. All cheques and withdrawals of funds, on behalf of the Club, shall be signed by the Treasurer, Chairperson and the vice-Chairperson. 
+3. The name of the Club shall be designated for Bank account purposes. All cheques and withdrawals of funds, on behalf of the Club, shall be signed by the Treasurer, Chairperson and the vice-Chairperson. 
     
-    4. Proper books or accounts shall be maintained up to date at all times.
+4. Proper books or accounts shall be maintained up to date at all times.
 
 ## ***ARTICLE VII: AFFILIATIONS***
 
@@ -140,21 +133,25 @@
 
 ## ***ARTICLE IX: AMENDMENTS***
 
-    1. Only the Annual General Meeting of the Club or a Special General Meeting shall have power to alter or amend this Constitution and Rules. 
+1. Only the Annual General Meeting of the Club or a Special General Meeting shall have power to alter or amend this Constitution and Rules. 
 
-    2. Any alteration or amendment to this Constitution and Rules will require to be carried by a two-thirds majority of all accredited members present.
+2. Any alteration or amendment to this Constitution and Rules will require to be carried by a two-thirds majority of all accredited members present.
 
 
 ## ***ARTICLE X: BYLAWS***
 
-	1. Members shall be required to show respect for the property of the club and acts of disrespect, including damage to equipments will be treated as a breach of the terms of a Member’s membership of the Club.
+1. Members shall be required to show respect for the property of the club and acts of disrespect, including damage to equipments will be treated as a breach of the terms of a Member’s membership of the Club.
 	
-	2. All members expect visitors shall not be a part of any other club that is related to tech.
+2. All members expect visitors shall not be a part of any other club that is related to tech.
 	
-	3. Members shall be required to observe the boundaries of other Clubs.
+3. Members shall be required to observe the boundaries of other Clubs.
 	
-	4. Members shall be required to show respect for the Officers and other Members of the Club.
+4. Members shall be required to show respect for the Officers and other Members of the Club.
 	
-	5. Any Member found to be in breach of these rules or held to have behaved in a manner damaging to the interests of the Club shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit.
+5. Any Member found to be in breach of these rules or held to have behaved in a manner damaging to the interests of the Club shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit.
 	
-	6. Members shall be required to abide and be bound by the Constitution and Rules of the European University of Lefke, including any other affiliations.  
+6. Members shall be required to abide and be bound by the Constitution and Rules of the European University of Lefke, including any other affiliations.  
+       
+7. Members shall not post, speak or interact negatively with other members
+    
+8. New members shall sign a confidentiality agreement   
