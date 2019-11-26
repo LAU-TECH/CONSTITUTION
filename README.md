@@ -18,15 +18,7 @@
 
 ## ***ARTICLE III: MEMBERSHIP***
 
-> #### _A:  Criteria for ordinary membership into the club:_
-	
-1. Pass a trial of 30 days.
-
-2. Familiar with the basics of programming, Algorithms and data structures.
-
-3. Willingness to learn and work hard. 
-    
-> #### _B:  Requirements for members to be fully recognized by the club:_
+> #### _A:  Requirements for members to be fully recognized by the club:_
 
 1. The candidate must meet all the requirements of [ARTICLE III section A.](#article-iii-membership)
  
@@ -42,6 +34,14 @@
 
 4. The candidate has to showcase a project, in one of the areas mentioned above in this section.
 
+> #### _B:  Criteria for ordinary membership into the club:_
+	
+1. Pass a trial of 30 days.
+
+2. Familiar with the basics of programming, Algorithms and data structures.
+
+3. Enthusiasm, drive, and eager to learn new technologies. 
+    
 > #### _C: Visitor membership:_
 
    A visitor membership shall be granted upon request.
