@@ -154,4 +154,4 @@
        
 7. Members shall not post, speak or interact negatively with other members
     
-8. New members shall sign a confidentiality agreement   
+8. All New members shall sign a confidentiality agreement   
