@@ -124,7 +124,7 @@
 
 2. Current affiliations:
     
-    * The European University of Lefke.
+    * European University of Lefke.
 
 
 ## ***ARTICLE VIII: INTERPRETATION OF CONSTITUTION:***
