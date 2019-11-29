@@ -156,4 +156,4 @@
        
 6. Members shall not post, speak or interact negatively with other members
     
-7. Any member or non-member found to e guilty of any act of plagiarism shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit. 
+7. Any member or non-member found to be guilty of any act of plagiarism shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit. 
