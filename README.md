@@ -134,7 +134,9 @@
 ## ***ARTICLE VIII: INTERPRETATION OF CONSTITUTION:***
 
 1. The Club is the sole authority for the interpretation of this Constitution and of any rule._**
-2. In the case where this constitution does not agree with local or international rules will override the corresponding rules of this constitution
+
+2. In the case where this constitution does not agree with the university, local or international rules, these rules will override the corresponding rules of this constitution
+
 ## ***ARTICLE IX: AMENDMENTS***
 
 1. Only the Annual General Meeting of the Club or a Special General Meeting shall have the power to alter or amend this Constitution and Rules. 
