@@ -12,9 +12,9 @@
 
 > #### Aims and Objectives:
 
-1. Give the chance to students to work on exctracurricular projects.
+1. Give the chance for students to work on extracurricular projects.
 
-2. Provide deep understanding of the most used technologies.  	
+2. Provide a deep understanding of the most used technologies.  	
 
 ## ***ARTICLE III: MEMBERSHIP***
 
@@ -56,7 +56,8 @@
    * Attend the annual general meeting of the club.
 
 2. Ordinary members:
-
+   
+   * Participate in local events.
    * Candidate full Member.   
    * Attend the annual general meeting of the club. 
 
@@ -72,14 +73,17 @@
 
 1- The Chairman shall be entitled to convene Special General Meetings of the Club to deal with any urgent business pertaining to the Club. 
 
-2- A Special General Meeting may also be convened at the written request of at least one third of the Club’s Members stating in writing the reason for the convening of such a meeting and such special meeting shall be held within fifteen (15) days of the written request 	being delivered to the Club Secretary. 
+2- A Special General Meeting may also be convened at the written request of at least one-third of the Club’s Members stating in writing the reason for the convening of such a meeting and such special meeting shall be held within fifteen (15) days of the written request being delivered to the Club Secretary. 
 
-3- No special meeting of the Club shall be convened without Club Members receiving at least 24 hours notice.
+3- No special meeting of the Club shall be convened without Club Members receiving at least 24 hours' notice.
 
 
 ## ***ARTICLE V: EXECUTIVE BOARD***
 
 > #### _A:  Officers Duties:_
+
+0. Adviser:
+   * The adviser shall lead the club's projects, and appointed by his/her corresponding affiliation.
 
 1. Chairman:
 
@@ -101,7 +105,7 @@
     
 4. Honorary Treasurer:
     
-   * The Hon. Treasurer shall be responsible of all financial matters of the club.
+   * The Hon. The treasurer shall be responsible for all financial matters of the club.
     
 5. Public relation Officer:
     
@@ -114,9 +118,9 @@
     
 2. All funds shall be held in the name of the Treasurer, Chairman for and on behalf of the Club. 
    
-3. The name of the Club shall be designated for Bank account purposes. All cheques and withdrawals of funds, on behalf of the Club, shall be signed by the Treasurer, Chairperson and the vice-Chairperson. 
+3. The name of the Club shall be designated for Bank account purposes. All cheques and withdrawals of funds, on behalf of the Club, shall be signed by the Treasurer, Chairperson and vice-Chairperson. 
     
-4. Proper books or accounts shall be maintained up to date at all times.
+4. Proper books of accounts shall be maintained up to date at all times.
 
 ## ***ARTICLE VII: AFFILIATIONS***
 
@@ -129,11 +133,11 @@
 
 ## ***ARTICLE VIII: INTERPRETATION OF CONSTITUTION:***
 
-> #### **_The Club is the sole authority for the interpretation of this Constitution and of any rule._**
-
+1. The Club is the sole authority for the interpretation of this Constitution and of any rule._**
+2. In the case where this constitution does not agree with local or international rules will override the corresponding rules of this constitution
 ## ***ARTICLE IX: AMENDMENTS***
 
-1. Only the Annual General Meeting of the Club or a Special General Meeting shall have power to alter or amend this Constitution and Rules. 
+1. Only the Annual General Meeting of the Club or a Special General Meeting shall have the power to alter or amend this Constitution and Rules. 
 
 2. Any alteration or amendment to this Constitution and Rules will require to be carried by a two-thirds majority of all accredited members present.
 
@@ -141,17 +145,15 @@
 ## ***ARTICLE X: BYLAWS***
 
 1. Members shall be required to show respect for the property of the club and acts of disrespect, including damage to equipments will be treated as a breach of the terms of a Member’s membership of the Club.
+		
+2. Members shall be required to observe the boundaries of other Clubs.
 	
-2. All members expect visitors shall not be a part of any other club that is related to tech.
+3. Members shall be required to show respect for the Officers and other members of the Club.
 	
-3. Members shall be required to observe the boundaries of other Clubs.
+4. Any Member found to be in breach of these rules or held to have behaved in a manner damaging to the interests of the Club shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit.
 	
-4. Members shall be required to show respect for the Officers and other Members of the Club.
-	
-5. Any Member found to be in breach of these rules or held to have behaved in a manner damaging to the interests of the Club shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit.
-	
-6. Members shall be required to abide and be bound by the Constitution and Rules of the European University of Lefke, including any other affiliations.  
+5. Members shall be required to abide and be bound by the Constitution and Rules of the European University of Lefke, including any other affiliations.  
        
-7. Members shall not post, speak or interact negatively with other members
+6. Members shall not post, speak or interact negatively with other members
     
-8. All New members shall sign a confidentiality agreement   
+7. Any member or non-member found to e guilty of any act of plagiarism shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit. 
