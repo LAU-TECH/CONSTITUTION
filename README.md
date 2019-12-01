@@ -8,7 +8,7 @@
 
 ## ***ARTICLE II: PURPOSE***
 
-> #### _MOTO: Do not mix the truth with falsehood or conceal the truth while you know it_.
+> #### _MOTO: The more you learn, the more you will realize how much you don't know_.
 
 > #### Aims and Objectives:
 
@@ -82,18 +82,18 @@
 
 > #### _A:  Officers Duties:_
 
-0. Adviser:
+1. Adviser:
    * The adviser shall lead the club's projects, and appointed by his/her corresponding affiliation.
 
-1. Chairman:
+2. Chairman:
 
    * The Chairman shall preside at all meetings of the Club and Committees and shall see to it that the decisions are put into effect.
     
-2. Vice-Chairman:
+3. Vice-Chairman:
     
    * The Vice-Chairman shall, in the absence of the Chairman, carry out the functions of the Chairman.
     
-3. Honorary Secretary:
+4. Honorary Secretary:
    
    * The Secretary shall, in the absence of the Chairman, carry out the functions of the Chairman.  
     
@@ -103,11 +103,11 @@
     
    * Shall take minutes of all meetings.
     
-4. Honorary Treasurer:
+5. Honorary Treasurer:
     
    * The Hon. The treasurer shall be responsible for all financial matters of the club.
     
-5. Public relation Officer:
+6. Public relation Officer:
     
    * Shall convey information to the public.
 
@@ -135,14 +135,13 @@
 
 1. The Club is the sole authority for the interpretation of this Constitution and of any rule._**
 
-2. In the case where this constitution does not agree with the university, local or international rules, these rules will override the corresponding rules of this constitution
+2. In the case where this constitution conflicts with the university, local or international laws, these laws will override the corresponding rules of this constitution
 
 ## ***ARTICLE IX: AMENDMENTS***
 
 1. Only the Annual General Meeting of the Club or a Special General Meeting shall have the power to alter or amend this Constitution and Rules. 
 
 2. Any alteration or amendment to this Constitution and Rules will require to be carried by a two-thirds majority of all accredited members present.
-
 
 ## ***ARTICLE X: BYLAWS***
 
@@ -154,8 +153,8 @@
 	
 4. Any Member found to be in breach of these rules or held to have behaved in a manner damaging to the interests of the Club shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit.
 	
-5. Members shall be required to abide and be bound by the Constitution and Rules of the European University of Lefke, including any other affiliations.  
+5. Members shall be required to abide and be bound by the Constitution and Rules of the European University of Lefke.  
        
 6. Members shall not post, speak or interact negatively with other members
     
-7. Any member or non-member found to be guilty of any act of plagiarism shall be admonished, suspended, fined, expelled or be the subject of such other penalty as the Club considers fit. 
+7. Any member found to be guilty of any act of plagiarism shall be expelled or be the subject of such other penalty as the Club considers fit. 
