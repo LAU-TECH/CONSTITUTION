@@ -82,7 +82,7 @@
 
 > #### _A:  Officers Duties:_
 
-1. Adviser:
+1. Advisor:
    * The adviser shall lead the club's projects, and appointed by his/her corresponding affiliation.
 
 2. Chairman:
