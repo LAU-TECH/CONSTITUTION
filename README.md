@@ -19,10 +19,8 @@
 ## ***ARTICLE III: MEMBERSHIP***
 
 > #### _A:  Requirements for members to be fully recognized by the club:_
-
-1. The candidate must meet all the requirements of [ARTICLE III section A.](#article-iii-membership)
  
-2. Basic knowledge in one or more of the following areas:
+1. Basic knowledge in one or more of the following areas:
    * Desktop App development.
    * web development.
    * Mobile App dev.
@@ -30,9 +28,9 @@
    * Microprocessors and embedded systems.
    * Game development.
 
-3. Enthusiasm, drive, and eager to learn new technologies. 
+2. Enthusiasm, drive, and eager to learn new technologies. 
 
-4. The candidate has to showcase a project, in one of the areas mentioned above in this section.
+3. The candidate has to showcase a project, in one of the areas mentioned above in this section.
 
 > #### _B:  Criteria for ordinary membership into the club:_
 	
